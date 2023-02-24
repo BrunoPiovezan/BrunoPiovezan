@@ -1,4 +1,4 @@
-### Olá, seja Bem Vindo ! Meu nome é Bruno Piovezan 👋
+### Olá, Seja Bem Vindo ! Meu nome é Bruno Piovezan 👋
 
 
 🐱‍💻 - Atualmente estou estudando Desenvolvimento Android utilizando as linguagens Java e Kotlin. 
