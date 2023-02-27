@@ -4,7 +4,8 @@
 🐱‍💻 - Atualmente estou estudando Desenvolvimento Android utilizando as linguagens Java e Kotlin. 
 
 ##
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoPiovezan&show_icons=true&theme=chartreuse-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPiovezan&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 
